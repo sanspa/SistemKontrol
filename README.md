@@ -1,5 +1,5 @@
 # Tugas tanggal 8 Januari 2018
-- Kerjakan soal tugas2018.pdf
+- Kerjakan soal tugas2019.pdf
 - Kumpulkan jawaban di meja saya
 
 # SistemKontrol
